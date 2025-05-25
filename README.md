@@ -8,4 +8,4 @@ Hey, I'm Samarth Javagal, a 13-year-old with a strong passion for computer archi
 
 I'm always exploring new ways to push my understanding of hardware and software — from building my own CPUs to experimenting with unique architecture designs.
 
-Feel free to follow my journey, and let’s connect if you're into computer architecture or just want to chat about projects!
+Feel free to follow my journey!!!
