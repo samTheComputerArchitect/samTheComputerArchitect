@@ -8,4 +8,6 @@ Hey, I'm Samarth Javagal, a 13-year-old with a strong passion for computer archi
 
 I'm always exploring new ways to push my understanding of hardware and software — from building my own CPUs to experimenting with unique architecture designs.
 
+The official SAP-2 assembler form PyPI — now with 1,400+ downloads! its called "sap2assembler"
+
 Feel free to follow my journey!!!
