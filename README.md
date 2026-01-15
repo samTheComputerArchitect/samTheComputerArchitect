@@ -2,6 +2,12 @@
 
 Hey, I'm Samarth Javagal, a 13-year-old with a strong passion for computer architecture and programming. I have extensive experience in Python, a bit in C++ and Golang, and I'm currently diving deep into designing custom computers.
 
+### Links!
+My Youtube - https://youtube.com/@samarthsciencess?si=EDgiy1V5OqRdNeF4
+My website - sites.google.com/view/samarthsprojects/
+A channel with my friend - https://youtube.com/@samarthanddhruva?si=WBrPpUk5ugXagbV8
+A website with my friend - samanddhruva.pythonanywhere.com
+
 ### My Achievements:
 - *built two SAP-1-like computers using Arduinos as memory, learning a ton about digital logic, microcontrollers, and hardware-software interaction.
 - Currently working on an SAP-2 build (with detailed videos on YouTube). I’m documenting the entire process from scratch, module by module, and I'm excited to share my journey with others.
