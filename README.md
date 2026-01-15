@@ -4,9 +4,12 @@ Hey, I'm Samarth Javagal, a 13-year-old with a strong passion for computer archi
 
 ### Links!
 My Youtube - https://youtube.com/@samarthsciencess?si=EDgiy1V5OqRdNeF4
-My website - sites.google.com/view/samarthsprojects/
+
+My website - https://sites.google.com/view/samarthsprojects/
+
 A channel with my friend - https://youtube.com/@samarthanddhruva?si=WBrPpUk5ugXagbV8
-A website with my friend - samanddhruva.pythonanywhere.com
+
+A website with my friend - https://samanddhruva.pythonanywhere.com
 
 ### My Achievements:
 - *built two SAP-1-like computers using Arduinos as memory, learning a ton about digital logic, microcontrollers, and hardware-software interaction.
