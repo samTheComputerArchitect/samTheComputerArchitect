@@ -7,6 +7,8 @@ My Youtube - https://youtube.com/@samarthsciencess?si=EDgiy1V5OqRdNeF4
 
 My website - https://sites.google.com/view/samarthsprojects/
 
+My other website (don't ask why there are so many websites) - https://sites.google.com/view/samthecomputerarchitect/
+
 A channel with my friend - https://youtube.com/@samarthanddhruva?si=WBrPpUk5ugXagbV8
 
 A website with my friend - https://samanddhruva.pythonanywhere.com
